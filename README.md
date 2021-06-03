@@ -5,6 +5,11 @@ To run, open in python ide or in terminal. The program will ask a few questions,
 
 If you want to  make the loading screen faster, edit the loading() function at the begining of the program, but keep the clearscreen() one the same. If you remove the loading(), make sure to use a find and replace to remove it compleatly. 
 
+There is no need to change the os clear function as it is handled by the device, unless the device is OS X, because the program was written on linux, and has support of Windows.
+
 If there are any errors in the crafting, please let me know, and I will correct it.
 
 After Chapter 2 is Released, there will be an updated version with those new crafts along with modded part support. 
+
+
+In the future, I hope to add a GUI, for easier use.

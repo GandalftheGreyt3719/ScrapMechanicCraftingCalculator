@@ -1,5 +1,6 @@
 # ScrapMechanicCraftingCalculator
 Simple crafting calculator made in python3 for Scrap Mechanic by Axolot
+
 If you want to sell this, please do not sell for more than 75 cents, as this a very crappily made program, and if you do, please provide credit to me.
 If you modify the program, please provide credit, but you may sell it for more.
 
